@@ -30,7 +30,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50%;
+    border-radius: 100%;
     border-style: groove;
     border-color: rgb(54, 54, 54);
     border-radius: 50%;
@@ -39,7 +39,7 @@ body {
   }
   p.groove {
       border-style: groove;
-      border-width: 16px 8px 16px 8px;
+      border-width: 8px 8px 8px 8px;
       border-color: rgb(54, 54, 54);
       border-radius: 10px;
       padding: 20px;
