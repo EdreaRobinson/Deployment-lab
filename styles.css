@@ -35,11 +35,10 @@ body {
     border-color: rgb(54, 54, 54);
     border-radius: 100%;
     border-width: 10px;
-    padding: -5px;
   }
   p.groove {
       border-style: groove;
-      border-width: 16px 8px 16px 8px;
+      border-width: 8px 8px 8px 8px;
       border-color: rgb(54, 54, 54);
       border-radius: 2px;
       padding: 20px;
