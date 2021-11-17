@@ -31,10 +31,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     border-radius: 100%;
-    border-style: groove;
-    border-color: rgb(54, 54, 54);
-    border-radius: 100%;
-    border-width: 10px;
   }
   p.groove {
       border-style: groove;
@@ -42,4 +38,10 @@ body {
       border-color: rgb(54, 54, 54);
       border-radius: 2px;
       padding: 20px;
+    }
+    .circleborder {
+        border-style: groove;
+        border-color: rgb(54, 54, 54);
+        border-radius: 100%;
+        border-width: 10px;
     }
