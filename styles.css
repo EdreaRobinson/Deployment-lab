@@ -24,6 +24,7 @@ body {
     text-decoration: none solid rgb(68, 68, 68);
     margin-left: 20%;
     margin-right: 20%;
+    text-align: left;
   }
   .center {
     display: block;
@@ -31,3 +32,10 @@ body {
     margin-right: auto;
     border-radius: 50%;
   }
+  p.groove {
+      border-style: groove;
+      border-width: medium;
+      border-color: rgb(100, 100, 100);
+      border-radius: 8px;
+      padding: 5px;
+    }
